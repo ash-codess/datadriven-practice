@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/steady_bear_8116), committ
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Bronze Medal](./practice/sql/bronze-medal) | SQL | Easy | 2026-10-12 |
 | [The Safe Caster](./practice/python/the-safe-caster) | Python | Easy | 2026-08-20 |
 | [Validate Email](./practice/python/validate-email) | Python | Medium | 2026-08-20 |
 | [The First Encounter](./practice/python/the-first-encounter) | Python | Easy | 2026-08-20 |
