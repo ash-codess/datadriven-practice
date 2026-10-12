@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/steady_bear_8116), committ
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Active API Tokens](./practice/sql/active-api-tokens) | SQL | Easy | 2026-08-19 |
 | [Where the Fleet Lives](./practice/sql/where-the-fleet-lives) | SQL | Medium | 2026-08-19 |
 | [Top Performing Models](./practice/sql/top-performing-models) | SQL | Easy | 2026-08-19 |
 | [Cheapest Cost Per Region](./practice/sql/cheapest-cost-per-region) | SQL | Easy | 2026-08-19 |
