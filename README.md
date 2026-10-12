@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/steady_bear_8116), committ
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [February 2024 Signups](./practice/sql/february-year-2-signups) | SQL | Easy | 2026-08-20 |
 | [iOS Sessions by Device Type](./practice/sql/ios-sessions-by-device-type) | SQL | Medium | 2026-08-20 |
 | [Session Logins Dec 13 to 19](./practice/sql/session-logins-dec-13-to-19) | SQL | Easy | 2026-08-19 |
 | [Active API Tokens](./practice/sql/active-api-tokens) | SQL | Easy | 2026-08-19 |
