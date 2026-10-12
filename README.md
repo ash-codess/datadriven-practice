@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/steady_bear_8116), committ
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Validate Email](./practice/python/validate-email) | Python | Medium | 2026-08-20 |
 | [The First Encounter](./practice/python/the-first-encounter) | Python | Easy | 2026-08-20 |
 | [February 2024 Signups](./practice/sql/february-year-2-signups) | SQL | Easy | 2026-08-20 |
 | [iOS Sessions by Device Type](./practice/sql/ios-sessions-by-device-type) | SQL | Medium | 2026-08-20 |
